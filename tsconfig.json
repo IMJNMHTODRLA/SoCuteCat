@@ -1,0 +1,21 @@
+{
+    "compilerOptions":
+    {
+        "target": "es5",
+        "module": "commonjs",
+        "outDir": "./static/js",
+        "rootDir": "./static/js/src",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "sourceMap": true
+    },
+    "include":
+    [
+        "static/js/src/**/*"
+    ],
+    "exclude":
+    [
+        "node_modules"
+    ]
+}
