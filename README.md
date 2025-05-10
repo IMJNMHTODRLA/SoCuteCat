@@ -1,2 +1,1 @@
-# SoCuteCat
-힐링 웹
+# SoCuteCat V1.1.0
